@@ -73,3 +73,11 @@ body{
     height:80px;
  }
 
+ @media (max-width: 480px){
+   .container {
+     grid-gap: 30px;
+   }
+   .headh2{
+      font-size: 20px;
+   }
+ }
